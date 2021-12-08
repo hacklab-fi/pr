@@ -1,0 +1,4 @@
+gs -sDEVICE=pdfwrite -dCompabilitylevel=1.3 -dNOPAUSE -dQUIET -dBATCH -sOutputFile=Hacklab-fi-banner-v13.pdf
+ps2pdf13 Hacklab-fi-banner.ps Hacklab-fi-banner-v13.pdf 
+
+Eli tällä tavalla saa muutettua pdf:n vaadittavaan versio 1.3 -muotoon
